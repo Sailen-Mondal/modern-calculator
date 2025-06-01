@@ -50,4 +50,7 @@ The calculator uses a modern color scheme:
 This project is built using:
 - Java 17
 - JavaFX 17.0.2
-- Maven for dependency management and building 
+- Maven for dependency management and building
+
+## Author
+Created by Sailen-Mondal 
